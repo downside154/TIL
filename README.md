@@ -59,23 +59,34 @@ Materials discussed in text will include, but is not limited to, materials from 
 ## 2.  HTML/CSS: 
 
 
-### Week 1: HTML/CSS
+### Week 1: Intoduction to HTML/CSS
 
-- 
-- 
-- 
-- 
-- 
+- HTML5 and CSS3 
+- RIA (Rich Internet Application)
+- DOM vs CSSOM
+- Emmet Syntax (HTML/CSS)
+- Layout (CSS)
+
+- Float (CSS)
+- BFC (Block Formatting Context)
+- Overflow(CSS)
+- Display: Block, Inline-Block(CSS)
+- Box-sizing: (CSS)
+- Flex containers and Flex items(CSS)
+- ARIA labels (HTML)
+- Reset CSS vs Normalizing CSS
+- Nav (HTML)
+
 
 [HTML/CSS Week 1 ](https://github.com/downside154/TIL/til-html-css/week01.md)
 
 --------------------------------
 ### Week 2: HTML/CSS
 
-- 
-- 
-- 
-- 
+- DOM vs CSSOM
+- Sprite images(CSS)
+- content-box vs border-box (CSS)
+- display: grid (CSS)
 - 
 
 [HTML/CSS Week 2 ](https://github.com/downside154/TIL/til-html-css/week02.md)
@@ -112,7 +123,7 @@ For material inquired, researched, or answered that do not necessarily belong in
 - Markdown Cheat Sheet (intro)
 - Terminal Commands (intro)
 - 
-- 
+- SEO (Search Engine Optimization)
 - 
 
 [Miscellaneous ](https://github.com/downside154/TIL/til-misc/readme.md)
