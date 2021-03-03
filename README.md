@@ -7,6 +7,7 @@ This repositary file will serve as a table of contents for the TIL material take
 Materials discussed in text will include, but is not limited to, materials from the course in it of itself. Additional context may appear from tangential questions the author had at the time.
 
 --------------------------------
+
 ## 1. Python: 
 
 
@@ -55,7 +56,8 @@ Materials discussed in text will include, but is not limited to, materials from 
 
 --------------------------------
 
-## 2.  HTML/CSS
+## 2.  HTML/CSS: 
+
 
 ### Week 1: HTML/CSS
 
@@ -107,8 +109,8 @@ Materials discussed in text will include, but is not limited to, materials from 
 
 For material inquired, researched, or answered that do not necessarily belong in pre-existing categories
 
-- 
-- 
+- Markdown Cheat Sheet (intro)
+- Terminal Commands (intro)
 - 
 - 
 - 
