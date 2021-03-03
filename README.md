@@ -18,7 +18,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 -
 
-[Python Week 1](https://github.com/downside154/TIL/til-python/WEEK01.md)
+[Python Week 1](https://github.com/downside154/TIL/til-python/week01.md)
 
 --------------------------------
 ### Week 2: Python
@@ -29,7 +29,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Python Week 2](https://github.com/downside154/TIL/til-python/WEEK02.md)
+[Python Week 2](https://github.com/downside154/TIL/til-python/week02.md)
 
 --------------------------------
 ### Week 3: Python
@@ -40,7 +40,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Python Week 3](https://github.com/downside154/TIL/til-python/WEEK03.md)
+[Python Week 3](https://github.com/downside154/TIL/til-python/week03.md)
 
 --------------------------------
 ### Week 4: Python
@@ -51,11 +51,11 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Python Week 4 ](https://github.com/downside154/TIL/til-python/WEEK04.md)
+[Python Week 4 ](https://github.com/downside154/TIL/til-python/week04.md)
 
 --------------------------------
 
-## HTML/CSS
+## 2.  HTML/CSS
 
 ### Week 1: HTML/CSS
 
@@ -64,7 +64,8 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 - 
-[HTML/CSS Week 1 ](https://github.com/downside154/TIL/til-html-css/WEEK01.md)
+
+[HTML/CSS Week 1 ](https://github.com/downside154/TIL/til-html-css/week01.md)
 
 --------------------------------
 ### Week 2: HTML/CSS
@@ -74,5 +75,42 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 - 
-[HTML/CSS Week 2 ](https://github.com/downside154/TIL/til-html-css/WEEK02.md)
+
+[HTML/CSS Week 2 ](https://github.com/downside154/TIL/til-html-css/week02.md)
+
 --------------------------------
+### Week 3: Javascript pt.1
+
+- 
+- 
+- 
+- 
+- 
+
+[HTML/CSS Week 3 ](https://github.com/downside154/TIL/til-html-css/week03.md)
+
+--------------------------------
+### Week 4: Javascript pt.2
+
+- 
+- 
+- 
+- 
+- 
+
+[HTML/CSS Week 4 ](https://github.com/downside154/TIL/til-html-css/week04.md)
+
+--------------------------------
+
+
+## Miscellaneous
+
+For material inquired, researched, or answered that do not necessarily belong in pre-existing categories
+
+- 
+- 
+- 
+- 
+- 
+
+[Miscellaneous ](https://github.com/downside154/TIL/til-misc/readme.md)
