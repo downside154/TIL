@@ -32,32 +32,49 @@ Materials discussed in text will include, but is not limited to, materials from 
 
 - Function 
 - Arguments and Keyword Arguments (args and kwargs)
-- global and local variables
+- global, local and non-local variables
 - Recursion
 - Execution time
-- 
+- IF Else conditions
+
 
 [Python Week 2](https://github.com/downside154/TIL/til-python/week02.md)
 
 --------------------------------
 ### Week 3: Python
 
-- 
-- 
-- 
-- 
-- 
+- Installing Pyenv and virtual enviroment
+- List comprehension
+- Dictionary Comprehension
+- File I/O
+- CSV
+- JSON
+- Error Handle
+- Regular Expressions (RegEx)
+- Lambda (and memory)
+- map, filter, reduce
+- Procedural Programing vs OOP (Object Oriented Programming)
+- Functional Programming
+- Inheritance
+
 
 [Python Week 3](https://github.com/downside154/TIL/til-python/week03.md)
 
 --------------------------------
 ### Week 4: Python
 
-- 
-- 
-- 
-- 
-- 
+- Methods: Class, Instance, Static
+- Polymorphism
+- Abstract Base Class
+- Module vs Package
+- Library and Framework
+- installing Poetry
+- Decorator
+- Closure
+- Introduction to Network
+- Web Crawling, Scraping, and Parsing
+- Install beautifulsoup, lxml, flask
+
 
 [Python Week 4 ](https://github.com/downside154/TIL/til-python/week04.md)
 
@@ -156,7 +173,10 @@ For material inquired, researched, or answered that do not necessarily belong in
 - Markdown Cheat Sheet (intro)
 - Terminal Commands (intro)
 - Installing git
-- Using github
+- Using github: clone, branch, merge 
+- Lambda (and memory)
+- 
+- 
 - SEO (Search Engine Optimization)
 - 
 
