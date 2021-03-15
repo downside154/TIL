@@ -8,7 +8,7 @@
 ```
 var x = 15;
 
-if (x > 10 && x <20){
+if (x > 10 && x < 20){
     console.log(x)
 }
 ```
@@ -146,7 +146,7 @@ memo point: 코드를 조금 더 단략하고 가독성 높일 방법은 없을�
 var x;
 var sumsix = [];
 
-for (x = 1; x <6; x++){
+for (x = 1; x < 6; x++){
     sumsix += "[" + (x) + "," + (6 - x) + "]"
 }
 console.log(sumsix)
@@ -162,7 +162,7 @@ console.log(sumsix)
 ```
 var star;
 
-for (star = 1; star <6; star++){
+for (star = 1; star < 6; star++){
     console.log("*".repeat(star))
 }
 ```
