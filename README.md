@@ -25,7 +25,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - Ternary Operators : Conditional Expressions
 - Iterations: Dictionary with Iteration, Iterations with Conditional Statements
 
-[Python Week 1](https://github.com/downside154/TIL/til-python/week01.md)
+[Python Week 1](https://github.com/downside154/TIL/Python/week01.md)
 
 --------------------------------
 ### Week 2: Python
@@ -38,7 +38,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - IF Else conditions
 
 
-[Python Week 2](https://github.com/downside154/TIL/til-python/week02.md)
+[Python Week 2](https://github.com/downside154/TIL/Python/week02.md)
 
 --------------------------------
 ### Week 3: Python
@@ -58,7 +58,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - Inheritance
 
 
-[Python Week 3](https://github.com/downside154/TIL/til-python/week03.md)
+[Python Week 3](https://github.com/downside154/TIL/Python/week03.md)
 
 --------------------------------
 ### Week 4: Python
@@ -76,7 +76,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - Install beautifulsoup, lxml, flask
 
 
-[Python Week 4 ](https://github.com/downside154/TIL/til-python/week04.md)
+[Python Week 4 ](https://github.com/downside154/TIL/Python/week04.md)
 
 --------------------------------
 
@@ -102,7 +102,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - Nav (HTML)
 
 
-[HTML/CSS Week 1 ](https://github.com/downside154/TIL/til-html-css/week01.md)
+[HTML/CSS Week 1 ](https://github.com/downside154/TIL/HtmlCss/week01.md)
 
 --------------------------------
 ### Week 2: HTML/CSS
@@ -113,7 +113,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - display: grid (CSS)
 - 
 
-[HTML/CSS Week 2 ](https://github.com/downside154/TIL/til-html-css/week02.md)
+[HTML/CSS Week 2 ](https://github.com/downside154/TIL/HtmlCss/week02.md)
 
 --------------------------------
 
@@ -128,7 +128,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Javascipt Week 1 ](https://github.com/downside154/TIL/til-js/week01.md)
+[Javascipt Week 1 ](https://github.com/downside154/TIL/JS/week01.md)
 
 --------------------------------
 ### Week 2: Javascript
@@ -139,7 +139,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Javascipt Week 2 ](https://github.com/downside154/TIL/til-js/week02.md)
+[Javascipt Week 2 ](https://github.com/downside154/TIL/JS/week02.md)
 
 --------------------------------
 ### Week 3: Javascript
@@ -150,7 +150,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Javascipt Week 3 ](https://github.com/downside154/TIL/til-js/week03.md)
+[Javascipt Week 3 ](https://github.com/downside154/TIL/JS/week03.md)
 
 --------------------------------
 ### Week 4: Javascript
@@ -161,7 +161,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - 
 - 
 
-[Javascipt Week 4 ](https://github.com/downside154/TIL/til-js/week04.md)
+[Javascipt Week 4 ](https://github.com/downside154/TIL/JS/week04.md)
 
 --------------------------------
 
@@ -174,10 +174,10 @@ For material inquired, researched, or answered that do not necessarily belong in
 - Terminal Commands (intro)
 - Installing git
 - Using github: clone, branch, merge 
-- Lambda (and memory)
+- Lambda (and Memory)
 - 
 - 
 - SEO (Search Engine Optimization)
 - 
 
-[Miscellaneous ](https://github.com/downside154/TIL/til-misc/readme.md)
+[Miscellaneous ](https://github.com/downside154/TIL/Misc/readme.md)
