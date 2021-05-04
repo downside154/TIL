@@ -25,7 +25,7 @@ Materials discussed in text will include, but is not limited to, materials from 
 - Ternary Operators : Conditional Expressions
 - Iterations: Dictionary with Iteration, Iterations with Conditional Statements
 
-[Python Week 1](https://github.com/downside154/TIL/Python/week01.md)
+[Python Week 1](https://github.com/downside154/TIL/blob/main/Python/week01.md)
 
 --------------------------------
 ### Week 2: Python
