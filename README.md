@@ -1,6 +1,5 @@
 # TIL
-Today I Learned..
-
+Today I Learned... 
 --------------------------------
 This repositary file will serve as a table of contents for the TIL material taken throughout the progression of a course on full stack development.
 
